@@ -6,7 +6,7 @@ config:
   description: |
     IT Professional, SW Architect and Tech Enthusiast
   avatar: profile.png
-  background: 
+  background: background.jpg
   background_opacity: 0.7
   qrcode: qrcode_white.png
   robots: none
@@ -37,12 +37,12 @@ links:
     links:
       - text: Telegram
         icon: fa-brands fa-telegram
-        href: https://t.me/ho0ber
+        href: https://t.me/PetrBNDKT
         wrap: tel
       - text: Email
         icon: fa-solid fa-envelope
-        href: "mailto:samuel.colburn@gmail.com"
-        copy: "samuel.colburn@gmail.com"
+        href: "mailto:petr@bndkt.io"
+        copy: "petr@bndkt.io"
 
   - title: Projects
     links:
