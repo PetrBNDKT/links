@@ -1,27 +1,17 @@
 config:
-  title: "Sam's Links"
+  title: "BNDKT's Links"
   name: BNDKT
   pronouns: he/him
-  pronunciation: name.mp3
+  pronunciation: 
   description: |
-    Software engineer,
-    gamer,
-    tech-enthusiast,
-    musician,
-    audio nerd,
-    voicover artist,
-    thespian,
-    ham,
-    fisherman,
-    birder,
-    dork
-  avatar: skey.jpg
-  background: garbage.jpg
+    IT Professional, SW Architect and Tech Enthusiast
+  avatar: profile.png
+  background: 
   background_opacity: 0.7
   qrcode: qrcode_white.png
   robots: none
-  favicon: favicon.ico
-  touchicon: apple-touch-icon.png
+  favicon: favicon.png
+  touchicon: favicon.png
 
 links:
   - title: Sites
