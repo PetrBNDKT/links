@@ -7,7 +7,7 @@ config:
     IT Professional, SW Architect
     and Tech Enthusiast
   avatar: profile.png
-  background: background.jpg
+  background: background-utopia-mc.png
   background_opacity: 0.7
   qrcode: qrcode_white.png
   robots: none
