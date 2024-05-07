@@ -1,10 +1,11 @@
 config:
   title: "BNDKT's Links"
-  name: BNDKT
+  name: Petr BENEDIKT
   pronouns: he/him
   pronunciation: 
   description: |
-    IT Professional, SW Architect and Tech Enthusiast
+    IT Professional, SW Architect
+    and Tech Enthusiast
   avatar: profile.png
   background: background.jpg
   background_opacity: 0.7
